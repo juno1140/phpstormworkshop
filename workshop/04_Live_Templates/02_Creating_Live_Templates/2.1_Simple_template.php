@@ -27,5 +27,8 @@ class $CLASS_NAME$ {
 
 // cls <TAB>
 class Info {
-    
+    public function index()
+    {
+        return;
+    }
 }
