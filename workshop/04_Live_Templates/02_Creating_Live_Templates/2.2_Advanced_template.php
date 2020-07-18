@@ -35,12 +35,6 @@ class LiveTemplates
     private function index()
     {
         echo "hello";
-
-        try {
-
-        } catch (Exception $exception) {
-
-        }
     }
 
 }
