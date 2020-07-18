@@ -26,3 +26,6 @@ class $CLASS_NAME$ {
 */
 
 // cls <TAB>
+class Info {
+    
+}
